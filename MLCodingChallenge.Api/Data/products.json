@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Flagship smartphone with S Pen and titanium frame.",
+    "imageUrl": "https://images.example.com/galaxy-s24-ultra.jpg",
+    "price": 1299.99,
+    "rating": 4.7,
+    "category": "Smartphones",
+    "size": "6.8 inches",
+    "weight": 232,
+    "color": "Titanium Black",
+    "specifications": {
+      "brand": "Samsung",
+      "model": "SM-S928B",
+      "operatingSystem": "Android 14",
+      "processor": "Snapdragon 8 Gen 3",
+      "memory": "12 GB",
+      "storageCapacity": "256 GB",
+      "batteryCapacity": "5000 mAh",
+      "cameraSpecs": "200 MP + 12 MP + 50 MP + 10 MP",
+      "screenResolution": "3120 x 1440"
+    }
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro Max",
+    "description": "Apple's most advanced iPhone with A17 Pro chip and titanium design.",
+    "imageUrl": "https://images.example.com/iphone-15-pro-max.jpg",
+    "price": 1199.99,
+    "rating": 4.8,
+    "category": "Smartphones",
+    "size": "6.7 inches",
+    "weight": 221,
+    "color": "Natural Titanium",
+    "specifications": {
+      "brand": "Apple",
+      "model": "A2849",
+      "operatingSystem": "iOS 17",
+      "processor": "A17 Pro",
+      "memory": "8 GB",
+      "storageCapacity": "256 GB",
+      "batteryCapacity": "4441 mAh",
+      "cameraSpecs": "48 MP + 12 MP + 12 MP",
+      "screenResolution": "2796 x 1290"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "description": "Google's AI-powered phone with Tensor G3 and best-in-class camera.",
+    "imageUrl": "https://images.example.com/pixel-8-pro.jpg",
+    "price": 999.00,
+    "rating": 4.5,
+    "category": "Smartphones",
+    "size": "6.7 inches",
+    "weight": 213,
+    "color": "Obsidian",
+    "specifications": {
+      "brand": "Google",
+      "model": "GC3VE",
+      "operatingSystem": "Android 14",
+      "processor": "Tensor G3",
+      "memory": "12 GB",
+      "storageCapacity": "128 GB",
+      "batteryCapacity": "5050 mAh",
+      "cameraSpecs": "50 MP + 48 MP + 48 MP",
+      "screenResolution": "2992 x 1344"
+    }
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro 14\" M3 Pro",
+    "description": "Professional laptop with M3 Pro chip, Liquid Retina XDR display.",
+    "imageUrl": "https://images.example.com/macbook-pro-14.jpg",
+    "price": 1999.00,
+    "rating": 4.9,
+    "category": "Laptops",
+    "size": "14.2 inches",
+    "weight": 1600,
+    "color": "Space Black",
+    "specifications": {
+      "brand": "Apple",
+      "model": "MRX33",
+      "operatingSystem": "macOS Sonoma",
+      "processor": "Apple M3 Pro",
+      "memory": "18 GB",
+      "storageCapacity": "512 GB SSD",
+      "batteryCapacity": "70 Wh",
+      "screenResolution": "3024 x 1964",
+      "ports": "3x Thunderbolt 4, HDMI, SD card, MagSafe"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 15",
+    "description": "Premium ultrabook with InfinityEdge display and 13th gen Intel Core.",
+    "imageUrl": "https://images.example.com/dell-xps-15.jpg",
+    "price": 1549.99,
+    "rating": 4.4,
+    "category": "Laptops",
+    "size": "15.6 inches",
+    "weight": 1860,
+    "color": "Platinum Silver",
+    "specifications": {
+      "brand": "Dell",
+      "model": "9530",
+      "operatingSystem": "Windows 11 Pro",
+      "processor": "Intel Core i7-13700H",
+      "memory": "16 GB",
+      "storageCapacity": "512 GB SSD",
+      "batteryCapacity": "86 Wh",
+      "screenResolution": "3456 x 2160",
+      "ports": "2x Thunderbolt 4, USB-C, SD card"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise cancelling wireless headphones.",
+    "imageUrl": "https://images.example.com/sony-wh1000xm5.jpg",
+    "price": 349.99,
+    "rating": 4.6,
+    "category": "Headphones",
+    "size": "One size",
+    "weight": 250,
+    "color": "Black",
+    "specifications": {
+      "brand": "Sony",
+      "model": "WH-1000XM5",
+      "driverSize": "30 mm",
+      "frequencyResponse": "4 Hz - 40000 Hz",
+      "batteryLife": "30 hours",
+      "noiseCancellation": "Active (Adaptive)",
+      "connectivity": "Bluetooth 5.2, 3.5mm jack",
+      "codec": "LDAC, AAC, SBC"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bose QuietComfort Ultra",
+    "description": "Spatial audio headphones with world-class noise cancellation.",
+    "imageUrl": "https://images.example.com/bose-qc-ultra.jpg",
+    "price": 429.00,
+    "rating": 4.5,
+    "category": "Headphones",
+    "size": "One size",
+    "weight": 254,
+    "color": "White Smoke",
+    "specifications": {
+      "brand": "Bose",
+      "model": "QC Ultra",
+      "driverSize": "35 mm",
+      "frequencyResponse": "20 Hz - 20000 Hz",
+      "batteryLife": "24 hours",
+      "noiseCancellation": "Active (Immersive)",
+      "connectivity": "Bluetooth 5.3, 2.5mm jack",
+      "codec": "aptX Adaptive, AAC, SBC"
+    }
+  }
+]
