@@ -77,3 +77,4 @@ Models/             -> DTOs y entidades de dominio
 - **Archivo JSON** como fuente de datos por simplicidad. El repositorio lo carga una vez al iniciar (singleton) evitando I/O repetido a disco.
 - **Filtrado de campos** funciona serializando el producto a un diccionario en tiempo de ejecución y conservando solo las claves solicitadas. Esto evita hardcodear un switch por cada campo.
 - **Validación** se maneja a nivel del controller: IDs inválidos, parámetros faltantes y validaciones de cantidad mínima devuelven mensajes de error claros.
+- **Sin capas adicionales** (Domain, MediatR, CQRS, etc.): para el alcance de este challenge no tiene sentido. Controller → Service → Repository cubre lo necesario, y si mañana hay que escalar, las interfaces ya están para cambiar implementaciones sin romper nada.
